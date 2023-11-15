@@ -1,0 +1,7 @@
+{
+	"usuarios":
+	[
+		{"nombre": "Luis", "correo": "luis@gmail.com","nacimiento": "01/01/24"},
+		{"nombre": "Pedro", "correo": "pedro@gmail.com","nacimiento": "02/02/24"}
+	]
+}
